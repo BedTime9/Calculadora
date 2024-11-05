@@ -54,6 +54,8 @@
 #else:
    #print('A área do losango é de',area_losango)
 
+# todas as formulas acima estão em comentário porque eu acho essa da calculadora muito mais legal
+
  # Calculadora
 print('Calculadora funcional')
 print('\n \n')
